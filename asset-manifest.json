@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Deltax-Assignment/static/css/main.fbf1f8ef.css",
+    "main.js": "/Deltax-Assignment/static/js/main.2572c536.js",
+    "static/js/787.7a2ff4b2.chunk.js": "/Deltax-Assignment/static/js/787.7a2ff4b2.chunk.js",
+    "static/media/logo.svg": "/Deltax-Assignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Deltax-Assignment/index.html",
+    "main.fbf1f8ef.css.map": "/Deltax-Assignment/static/css/main.fbf1f8ef.css.map",
+    "main.2572c536.js.map": "/Deltax-Assignment/static/js/main.2572c536.js.map",
+    "787.7a2ff4b2.chunk.js.map": "/Deltax-Assignment/static/js/787.7a2ff4b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbf1f8ef.css",
+    "static/js/main.2572c536.js"
+  ]
+}
